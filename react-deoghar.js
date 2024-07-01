@@ -12,6 +12,7 @@ app.get("/", (req, res) => {
 
 //middleware to server static files also
 app.use(express.static("swm_build"));
+app.use(express.static("deoghar_app_build"));
 
 
 //actual routes
@@ -20,6 +21,12 @@ app.get("/swm", (req, res) => {
 });
 app.get("/swm/*", (req, res) => {
   res.sendFile(path.join(__dirname, "swm_build", "index.html"));
+});
+app.get("/deoghar-app", (req, res) => {
+  res.sendFile(path.join(__dirname, "deoghar_app_build", "index.html"));
+});
+app.get("/deoghar-app/*", (req, res) => {
+  res.sendFile(path.join(__dirname, "deoghar_app_build", "index.html"));
 });
 
 // start express server on port 80
