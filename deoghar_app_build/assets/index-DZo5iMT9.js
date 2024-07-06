@@ -1,1 +1,0 @@
-import{j as r}from"./index-B_v-j40X.js";import"./router-CTqkcgir.js";import"./headlessui-BV7w-sRG.js";import"./axios-DmypytPv.js";function s(){return r.jsx("div",{children:"Register"})}export{s as default};
