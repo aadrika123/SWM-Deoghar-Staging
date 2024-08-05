@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.bd3c90e4.css",
-    "main.js": "/static/js/main.fc6ed670.js",
+    "main.css": "/static/css/main.e828cefd.css",
+    "main.js": "/static/js/main.cfa5467a.js",
     "static/js/787.6f9d5313.chunk.js": "/static/js/787.6f9d5313.chunk.js",
     "static/media/b2.jpg": "/static/media/b2.315b864594813479e61d.jpg",
     "static/media/rmclogo.png": "/static/media/rmclogo.d1d9f229f3fd3b66c19c.png",
@@ -14,10 +14,10 @@
     "static/media/Motto.svg": "/static/media/Motto.cba83b8b86de933a067f78fc760d112d.svg",
     "static/media/swmlogo.png": "/static/media/swmlogo.cf50d09027671b52cfdc.png",
     "static/media/AdjustmentAmount.png": "/static/media/AdjustmentAmount.3caeab25b2b8eff13522.png",
-    "static/media/ReconcilePending.png": "/static/media/ReconcilePending.7b9e6bd0d4eead30993e.png",
     "static/media/nspl_logo.png": "/static/media/nspl_logo.386dc52c6c3146f5292d.png",
     "static/media/Vision.svg": "/static/media/Vision.f657aee8da0804761ab6c950c4035a84.svg",
     "static/media/TotalDemand.png": "/static/media/TotalDemand.ff77efdea056b1fbe7bf.png",
+    "static/media/ICON ILLUSTRATION.svg": "/static/media/ICON ILLUSTRATION.15e654fd7655fa93c597f8c0401386b8.svg",
     "static/media/deogharLogo.png": "/static/media/deogharLogo.229c3a962740909b41ae.png",
     "static/media/advt.png": "/static/media/advt.eb5450bebfbaf8e05344.png",
     "static/media/adlogo.png": "/static/media/adlogo.4c8c04c0d82518a0968b.png",
@@ -42,7 +42,11 @@
     "static/media/geo.png": "/static/media/geo.54e03d4e40f3cd0e7d3f.png",
     "static/media/dustbin.png": "/static/media/dustbin.34791bc097087ddbe1ec.png",
     "static/media/OTP.svg": "/static/media/OTP.df755965a2a28d2fcea35e8d6cc99e47.svg",
+    "static/media/ICON 04.svg": "/static/media/ICON 04.5b67a44d303621b6c1422203d6fdbdf6.svg",
+    "static/media/ICON 01.svg": "/static/media/ICON 01.1b650016f8b3d054d023ca4241369483.svg",
+    "static/media/ICON 02.svg": "/static/media/ICON 02.96db9f4486f0fcb125ad387f6fb95619.svg",
     "static/media/Deactivate.svg": "/static/media/Deactivate.27c0549fe76b4c2e4166a3c991f75053.svg",
+    "static/media/ICON 03.svg": "/static/media/ICON 03.9534e838e37d0548af187f490da8aed0.svg",
     "static/media/GeoMap.svg": "/static/media/GeoMap.bf830913419df152ed3fde67240e2582.svg",
     "static/media/Rupee.svg": "/static/media/Rupee.61c2ac1b39c46ebebb060f948ab5bead.svg",
     "static/media/Deny.svg": "/static/media/Deny.406c8054f291a1c97712a06b08526334.svg",
@@ -51,16 +55,18 @@
     "static/media/Reminder.svg": "/static/media/Reminder.25b3ebd84708be7601d7d424e6720d1f.svg",
     "static/media/Renter.svg": "/static/media/Renter.f299e8cb88de60ab14ac59ff866c9038.svg",
     "static/media/Edit.svg": "/static/media/Edit.c49a86d5d957842027ab55575f8bc029.svg",
+    "static/media/Down Icon.svg": "/static/media/Down Icon.d0ef9ef87ad11e3dadc7f6fe0283fbb4.svg",
     "index.html": "/index.html",
     "static/media/Transaction.svg": "/static/media/Transaction.29711b0a72db904988c5588e147dc5bb.svg",
+    "static/media/Down Icon 02.svg": "/static/media/Down Icon 02.5514dbab056477a834483cae739da843.svg",
     "static/media/OK.svg": "/static/media/OK.dd55d39b86ae38b9f97ab76d9cd9fecc.svg",
     "static/media/login.svg": "/static/media/login.ffcca278f2b9a2a5b0f7385cf09e1b36.svg",
-    "main.bd3c90e4.css.map": "/static/css/main.bd3c90e4.css.map",
-    "main.fc6ed670.js.map": "/static/js/main.fc6ed670.js.map",
+    "main.e828cefd.css.map": "/static/css/main.e828cefd.css.map",
+    "main.cfa5467a.js.map": "/static/js/main.cfa5467a.js.map",
     "787.6f9d5313.chunk.js.map": "/static/js/787.6f9d5313.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bd3c90e4.css",
-    "static/js/main.fc6ed670.js"
+    "static/css/main.e828cefd.css",
+    "static/js/main.cfa5467a.js"
   ]
 }
