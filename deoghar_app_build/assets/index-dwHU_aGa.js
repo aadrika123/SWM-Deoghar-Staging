@@ -1,0 +1,1 @@
+import{j as r}from"./index-CPXdmuH_.js";import"./router-BsPcvcg3.js";import"./headlessui-DAvslveC.js";import"./axios-BrYcoDUu.js";function s(){return r.jsx("div",{children:"Register"})}export{s as default};

@@ -1,0 +1,1 @@
+System.register(["./index-legacy-D_qsdVeQ.js","./router-legacy-DXU_NOBA.js","./headlessui-legacy-nvVeYWxe.js","./axios-legacy-COJRtORB.js"],(function(e,t){"use strict";var n;return{setters:[function(e){n=e.j},null,null,null],execute:function(){e("default",(function(){return n.jsx("div",{children:"Register"})}))}}}));
