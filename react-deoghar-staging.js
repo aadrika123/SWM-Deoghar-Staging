@@ -29,7 +29,7 @@ app.get("/deoghar-app/*", (req, res) => {
   res.sendFile(path.join(__dirname, "deoghar_app_build", "index.html"));
 });
 
-// start express server on port 80
-app.listen(600, () => {
-  console.log("server starting on port 500");
+// start express server on port 800
+app.listen(800, () => {
+  console.log("server starting on port 800");
 });
